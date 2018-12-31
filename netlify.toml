@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "https://ronsmeralnet.netlify.com/*"
+  to = "https://ron.smeral.net/:splat"
+  status = 301
+  force = true
